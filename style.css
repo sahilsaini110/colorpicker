@@ -53,9 +53,10 @@ h1 {
     background: steelblue;
 }
 
-button {
+button { 
     border: none;
-    background: none;
+    border-radius: 10px;
+    background:  rgb(205, 213, 219);
     text-transform: uppercase;
     height: 100%;
     font-weight: 700;
